@@ -39,4 +39,5 @@ body {
     display: inline-block;
     grid-row-start: 3;
     border: 1px black solid;
+    background-color: grey;
 }
